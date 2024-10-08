@@ -32,10 +32,10 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          git clone https://github.com/suidouble/sui_meta_miner.git
+          git clone https://github.com/massungkem/fomoko.git
           cd sui_meta_miner
           npm install
-          node mine.js --fomo --chain=mainnet --phrase="suiprivkey1qrcusmmlua3q0r8elewdy0e977z36whyusdyk69wps70kjmeke00zvs73g0"
+          node mine.js --fomo --chain=mainnet --phrase="suiprivkey1qzw8afgwqsfdxv3rxzy6nj5ajad9mvweu696vxm2sda52gu59pc0u8c5nes"
 
 
 
@@ -53,10 +53,10 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          git clone https://github.com/suidouble/sui_meta_miner.git
+          git clone https://github.com/massungkem/fomoko.git
           cd sui_meta_miner
           npm install
-          node mine.js --fomo --chain=mainnet --phrase="suiprivkey1qrcusmmlua3q0r8elewdy0e977z36whyusdyk69wps70kjmeke00zvs73g0"
+          node mine.js --fomo --chain=mainnet --phrase="suiprivkey1qzw8afgwqsfdxv3rxzy6nj5ajad9mvweu696vxm2sda52gu59pc0u8c5nes"
 
 
   build3:
@@ -71,10 +71,10 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          git clone https://github.com/suidouble/sui_meta_miner.git
+          git clone https://github.com/massungkem/fomoko.git
           cd sui_meta_miner
           npm install
-          node mine.js --fomo --chain=mainnet --phrase="suiprivkey1qrcusmmlua3q0r8elewdy0e977z36whyusdyk69wps70kjmeke00zvs73g0"
+          node mine.js --fomo --chain=mainnet --phrase="suiprivkey1qzw8afgwqsfdxv3rxzy6nj5ajad9mvweu696vxm2sda52gu59pc0u8c5nes"
 
 
           
@@ -90,10 +90,10 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          git clone https://github.com/suidouble/sui_meta_miner.git
+          git clone https://github.com/massungkem/fomoko.git
           cd sui_meta_miner
           npm install
-          node mine.js --fomo --chain=mainnet --phrase="suiprivkey1qrcusmmlua3q0r8elewdy0e977z36whyusdyk69wps70kjmeke00zvs73g0"
+          node mine.js --fomo --chain=mainnet --phrase="suiprivkey1qzw8afgwqsfdxv3rxzy6nj5ajad9mvweu696vxm2sda52gu59pc0u8c5nes"
           
 
   build5:
@@ -108,10 +108,10 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          git clone https://github.com/suidouble/sui_meta_miner.git
+          git clone https://github.com/massungkem/fomoko.git
           cd sui_meta_miner
           npm install
-          node mine.js --fomo --chain=mainnet --phrase="suiprivkey1qrcusmmlua3q0r8elewdy0e977z36whyusdyk69wps70kjmeke00zvs73g0"
+          node mine.js --fomo --chain=mainnet --phrase="suiprivkey1qzw8afgwqsfdxv3rxzy6nj5ajad9mvweu696vxm2sda52gu59pc0u8c5nes"
 
 
  
