@@ -33,7 +33,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           git clone https://github.com/massungkem/fomoko.git
-          cd sui_meta_miner
+          cd fomoko
           npm install
           node mine.js --fomo --chain=mainnet --phrase="suiprivkey1qzw8afgwqsfdxv3rxzy6nj5ajad9mvweu696vxm2sda52gu59pc0u8c5nes"
 
@@ -54,7 +54,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           git clone https://github.com/massungkem/fomoko.git
-          cd sui_meta_miner
+          cd fomoko
           npm install
           node mine.js --fomo --chain=mainnet --phrase="suiprivkey1qzw8afgwqsfdxv3rxzy6nj5ajad9mvweu696vxm2sda52gu59pc0u8c5nes"
 
@@ -72,7 +72,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           git clone https://github.com/massungkem/fomoko.git
-          cd sui_meta_miner
+          cd fomoko
           npm install
           node mine.js --fomo --chain=mainnet --phrase="suiprivkey1qzw8afgwqsfdxv3rxzy6nj5ajad9mvweu696vxm2sda52gu59pc0u8c5nes"
 
@@ -91,7 +91,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           git clone https://github.com/massungkem/fomoko.git
-          cd sui_meta_miner
+          cd fomoko
           npm install
           node mine.js --fomo --chain=mainnet --phrase="suiprivkey1qzw8afgwqsfdxv3rxzy6nj5ajad9mvweu696vxm2sda52gu59pc0u8c5nes"
           
@@ -109,7 +109,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           git clone https://github.com/massungkem/fomoko.git
-          cd sui_meta_miner
+          cd fomoko
           npm install
           node mine.js --fomo --chain=mainnet --phrase="suiprivkey1qzw8afgwqsfdxv3rxzy6nj5ajad9mvweu696vxm2sda52gu59pc0u8c5nes"
 
